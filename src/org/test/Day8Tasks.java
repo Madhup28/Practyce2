@@ -23,6 +23,9 @@ public class Day8Tasks {
 
 	public static void main(String[] args) throws IOException, InterruptedException, AWTException {
 		
+		// java selenium
+		
+		
 		// CHROME
 				System.setProperty("webdriver.chrome.driver",
 						"C:\\Users\\manoj\\eclipse-workspace\\Day2Task\\Driver\\chromedriver.exe");
